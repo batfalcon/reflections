@@ -3,7 +3,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-	The staging area is where files are held and in process of being committed before an actual commit. The working directory and repository have files that already have commits. The staging area allows you to make on whether you want to add or delete files before making a commit.
+	The staging area is where files are held and in process of being committed before an actual commit. The working directory and repository have files that already have commits in the existing history. The staging area allows you to make on whether you want to add or delete files before making a commit.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
