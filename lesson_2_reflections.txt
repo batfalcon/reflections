@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+	You initialize a respository to create the .git file which will contain the meta data of all your commit histories. You need to do this in order for git to store commits into the new repository.
