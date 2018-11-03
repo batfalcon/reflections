@@ -1,2 +1,20 @@
 What happens when you initialize a repository? Why do you need to do it?
 	You initialize a respository to create the .git file which will contain the meta data of all your commit histories. You need to do this in order for git to store commits into the new repository.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+	The staging area is where files are held and in process of being committed before an actual commit. The working directory and repository have files that already have commits. The staging area allows you to make on whether you want to add or delete files before making a commit.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
