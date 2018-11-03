@@ -15,3 +15,5 @@ How can you use the commands git log and git diff to view the history of files?
 
 How might using version control make you more confident to make changes that could break something?
 	You can feel more confident making changes that could break something with verson control because you have the ability to go back to a working version using git log and git checkout.
+
+This completes reflections for Lesson 1.
