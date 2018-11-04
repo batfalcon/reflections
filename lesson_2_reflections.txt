@@ -14,6 +14,7 @@ organized? How would branches help?
 	When you want to experiment with your file or create a different language version, but not have those changes affect the master branch file. You can create a new branch that is separate from the master branch to make changes and experiment while not affect the master branch.
 
 How do the diagrams help you visualize the branch structure?
+	By making a diagram, you can visualize how commits in each branch connect to one another and from which commit it connects back to on the master branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
